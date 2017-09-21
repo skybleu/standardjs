@@ -1,6 +1,6 @@
 {
   "name": "standardjs",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "Announcing the winner of the so-called standard JavaScript styles.",
   "main": "index.js",
   "scripts": {

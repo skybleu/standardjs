@@ -17,5 +17,5 @@ Please stop working against the vast majority of your peers and just use the *ac
 See the results here:
 
 - <strong> [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb) with nearly 2 Million Downloads! </strong>
-- <small><small>[eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard) <sup>with way less downloads than that, <sup>I mean who even cares, eww yuck...they should have called it nonstandard really lol.</sup></sup></small></small>
+- <small><small>[eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard) with way less downloads than that, <sup>I mean who even, eww yuck...they should have called it nonstandard really lol.</sup></small></small>
 
